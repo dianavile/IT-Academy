@@ -16,20 +16,24 @@ Get the basic understanding of internet, browsers, networks and other relevant k
 * 📓 [DNS in One Picture](https://roadmap.sh/guides/dns-in-one-picture)
 
 
-## 1. GIT	
+## 1. GIT- resources	
 Version control systems allow you to track changes to your codebase/files over time. 
+* 🎥 [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+* 🎥 [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+* 🎥 [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=Y9XZQO1n_7c&feature=youtu.be&t=21)
+
+IT Academy
 * 🎥 [¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE)
 * SOFTWARE [Source Tree](https://www.sourcetreeapp.com/)
-* EXERCISI [Git Exercisi](https://github.com/dianavile/git-exercici)
-* MATERIAL [Cómo clonar un repositorio](https://www.youtube.com/watch?v=FuTeX-bROHc&list=PLUBaUuU7BSi74BSTkZ6nvPGF6e53CWF1n&index=2),	
-[Cómo crear ramas (branches)](https://www.youtube.com/watch?v=-GJzSHqbVho&list=PLUBaUuU7BSi74BSTkZ6nvPGF6e53CWF1n&index=5)
+* 😅 EXERCISI [Git Exercisi](https://github.com/dianavile/git-exercici)
+* MATERIAL [Cómo clonar un repositorio](https://www.youtube.com/watch?v=FuTeX-bROHc&list=PLUBaUuU7BSi74BSTkZ6nvPGF6e53CWF1n&index=2),	[Cómo crear ramas (branches)](https://www.youtube.com/watch?v=-GJzSHqbVho&list=PLUBaUuU7BSi74BSTkZ6nvPGF6e53CWF1n&index=5)
 		
 ## 2. SQL
 * 🎥 Instalar MySQL y Workbench [Introduccio MYSQL i Workbench](https://www.youtube.com/watch?v=ouxD_9mMZRc&list=PLUBaUuU7BSi74BSTkZ6nvPGF6e53CWF1n&index=4)
 - 🎥 [Curso MySQL - Curso Intensivo y Práctico](https://www.youtube.com/watch?v=e8gaffa3Ca8),Disseny de diagrames de BD [MySQL Workbench Design Walkthrough](https://www.youtube.com/watch?v=w-0IWyAeZ3M)
 - 🎥 [Introduction to SQL](https://sqlbolt.com/lesson/introduction)
 * SOFTWARE []()
-* EXERCISI []()
+* 😅 EXERCISI []()
 * MATERIAL[]()
 -[]()
 -[]()
@@ -46,3 +50,4 @@ Version control systems allow you to track changes to your codebase/files over t
 
 🎥
 📓
+😅
