@@ -2,7 +2,7 @@
 
 ## Frontend
 [https://roadmap.sh/frontend](https://roadmap.sh/frontend/resources)
-![Frontend Roadmap](/images/logo.png)
+![Frontend Roadmap](https://github.com/dianavile/IT-Academy/blob/master/frontend.png)
 
 ## BASIC KNOWLEDGE
 Get the basic understanding of internet, browsers, networks and other relevant knowledge.
