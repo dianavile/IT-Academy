@@ -1,8 +1,5 @@
 # IT-Academy
 
-## o. GENERAL
-* [HELLO WORLD](https://sway.office.com/5Mo9TnHQxy9Fx4wV?ref=Link)
-
 ## 1. GIT	
 * VIDEO [¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE)
 * SOFTWARE [Source Tree](https://www.sourcetreeapp.com/)
