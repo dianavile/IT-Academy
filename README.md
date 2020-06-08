@@ -2,6 +2,7 @@
 
 ## Frontend
 [https://roadmap.sh/frontend](https://roadmap.sh/frontend/resources)
+![Frontend Roadmap](/images/logo.png)
 
 ## BASIC KNOWLEDGE
 Get the basic understanding of internet, browsers, networks and other relevant knowledge.
