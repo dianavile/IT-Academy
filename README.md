@@ -1,7 +1,6 @@
 # IT-Academy
 
-## Frontend
-[https://roadmap.sh/frontend](https://roadmap.sh/frontend/resources)
+## Frontend [https://roadmap.sh/frontend](https://roadmap.sh/frontend/resources)
 ![Frontend Roadmap](https://github.com/dianavile/IT-Academy/blob/master/frontend.png)
 
 ## BASIC KNOWLEDGE
