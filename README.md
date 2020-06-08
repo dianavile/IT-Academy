@@ -39,7 +39,7 @@ IT Academy
 -[]()
 -[]()
 
-## HTML
+## HTML structures webpages:
 * 📓 [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
 * 📓 [W3Schools – HTML Tutorial](https://www.w3schools.com/html/default.asp)
 * 🎥 [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
@@ -48,6 +48,19 @@ IT Academy
 * 📓 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * 📓 [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-🎥
-📓
-😅
+## CSS styles webpages:
+* 📓 [W3Schools – CSS Tutorial](https://www.w3schools.com/css/)
+* 🎥 [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+* 🎥😅 [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw)
+* 🎥 [Watch Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc&feature=youtu.be&t=46)
+
+## JavaScript- add interactivity to webpages:
+## JavaScript Basics:
+* 📓 [W3Schools–JavaScript Tutorial](https://www.w3schools.com/js/)
+* 🎥 [JavaScript Crash Course for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&feature=youtu.be&t=2)
+* 🎥 😅[Build a Netflix Landing Page Clone with HTML, CSS & JS](https://www.youtube.com/watch?v=P7t13SGytRk&feature=youtu.be&t=22)
+
+## JavaScript- Modern:
+* 📓 [Modern JavaScript for Dinosaurs](https://www.w3schools.com/js/)
+* 🎥 [What is NPM and how to use it](https://www.youtube.com/watch?v=8Rmj5UY5mJk)
+* 🎥 [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
