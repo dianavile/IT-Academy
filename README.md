@@ -1,6 +1,6 @@
 # IT-Academy
 
-##1. GIT	
+## 1. GIT	
 * VIDEO [¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE)
 * SOFTWARE [Source Tree](https://www.sourcetreeapp.com/)
 * EXERCISI 
