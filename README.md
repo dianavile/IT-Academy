@@ -16,6 +16,8 @@ Get the basic understanding of internet, browsers, networks and other relevant k
 * 📓 [How DNS works?](https://howdns.works/)
 * 📓 [DNS in One Picture](https://roadmap.sh/guides/dns-in-one-picture)
 
+
+## COMMON KNOWLEDGE 
 ## 1. GIT- resources	
 Version control systems allow you to track changes to your codebase/files over time. 
 * 🎥 [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
@@ -38,9 +40,9 @@ IT ACADEMY
 * SOFTWARE []()
 * 😅 EXERCISI []()
 * MATERIAL[]()
--[]()
--[]()
--[]()
+
+
+
 
 ## HTML structures webpages:
 * 📓 [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
