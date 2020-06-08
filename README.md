@@ -5,7 +5,7 @@
 
 ## BASIC KNOWLEDGE
 Get the basic understanding of internet, browsers, networks and other relevant knowledge.
-* 📓 [What is Internet?](https://roadmap.sh/guides/what-is-internet)
+- [x] 📓 [What is Internet?](https://roadmap.sh/guides/what-is-internet)
 * 🎥 [How the internet works in 5 minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 * 📓 [What is HTTP and how it evolved?](https://kamranahmed.info/blog/2016/08/13/http-in-depth/)
 * 📓 [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
