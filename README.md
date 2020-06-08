@@ -14,9 +14,14 @@
 * VIDEO 
 - Instalar MySQL y Workbench [Introduccio MYSQL i Workbench](https://www.youtube.com/watch?v=ouxD_9mMZRc&list=PLUBaUuU7BSi74BSTkZ6nvPGF6e53CWF1n&index=4)
 - [Curso MySQL - Curso Intensivo y Práctico](https://www.youtube.com/watch?v=e8gaffa3Ca8)
--(Curso MySQL-Curso Intensivo y Práctico)[https://www.youtube.com/watch?v=e8gaffa3Ca8]
+- Disseny de diagrames de BD [MySQL Workbench Design Walkthrough](https://www.youtube.com/watch?v=w-0IWyAeZ3M)
+- [Introduction to SQL](https://sqlbolt.com/lesson/introduction)
+-[MySQL Tutorial for Beginners]()
 
 
 * SOFTWARE []()
 * EXERCISI []()
 * MATERIAL[]()
+-[]()
+-[]()
+-[]()
